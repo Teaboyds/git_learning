@@ -7,7 +7,6 @@ import (
 var word string
 
 func main() {
-
-	word = "tea"
+	word = "cha"
 	fmt.Printf("Hello World from: %s", word)
 }
